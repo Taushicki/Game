@@ -1,5 +1,3 @@
-Пантелеев Илья 1091
-
 # Console Game
 Ping-pong
 
