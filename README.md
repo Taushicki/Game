@@ -1,6 +1,6 @@
 Пантелеев Илья 1091
 
-# Game
+# Console Game
 Ping-pong
 
 PvP – игрок против игрока.
